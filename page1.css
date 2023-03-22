@@ -1,0 +1,191 @@
+#maindiv1{
+    FONT-SIZE:20PX;
+    background-image:url("PROGRAMMPIC11.JPG");
+    background-position:50% 20%;
+    height:300px;
+    border:5px solid black;
+}
+
+#sectionmain{
+    background-color:brown;
+    height:40px;
+    width:800px;
+    left:210px;
+    border:1px solid black;
+    position:relative;
+}
+
+.id1{
+    color:white;
+    font-size:larger;
+    bottom:20px;
+    position:relative;
+}
+
+#pr1{
+    color:white;
+    text-shadow:15px 15px 15px;
+    text-align:center;
+    font-size:70px;
+    bottom:60px;
+    position:relative;
+}
+
+#p1{
+    font-size:25px;
+    color:white;
+    text-align:center;
+    bottom:70px;
+    position:relative;
+}
+
+#p2{
+    font-size:20px;
+    color:white;
+    text-align:center;
+    bottom:70px;
+    position:relative;
+}
+
+#maindiv2{
+    background-color:white;
+    height:350px;
+    border:5px solid black;
+    top:-350px;
+    position:relative;
+}
+
+body{
+    background-color:grey;
+}
+
+#id1left{
+    background-color:brown;
+    height:80px;
+    width:80px;
+    left:82px;
+    bottom:50px;
+    border:5px solid black;
+    border-radius:50px;
+    position:relative;
+}
+
+#id1center{
+    background-color:brown;
+    height: 80px;
+    width:80px;
+    left:82px;
+    bottom:50px;
+    border:5px solid black;
+    border-radius: 50px;
+    position:relative;
+}
+
+#id1right{
+    background-color:brown;
+    height: 80px;
+    width:80px;
+    left:82px;
+    bottom:50px;
+    border:5px solid black;
+    border-radius: 50px;
+    position:relative;
+}
+
+#divleft{
+    background-image:url();
+    background-color: white;
+    left:190px;
+    top:70px;
+    width:20.33%;
+    height:190px;
+    border:5px solid black;
+    position:relative;
+}
+
+#divcenter{
+    background-color: white;
+    margin:0 auto;
+    bottom:147px;
+    width:20.33%;
+    height:190px;
+    border:5px solid black;
+    position:relative;
+}
+
+#divright{
+    background-color: white;
+    left:792px;
+    bottom:365px;
+    width:20.33%;
+    height:190px;
+    border:5px solid black;
+    position:relative;
+}
+
+.main2{
+    height:200px;
+    width:25.33%;
+    border:5px solid black;
+}
+
+#id2left{
+    background-color:red;
+    left:70px;
+    bottom:-30px;
+    position:relative;
+}
+
+#id2center{
+    background-color:red;
+    margin:0 auto;
+    bottom:180px;
+    position:relative; 
+
+}
+
+#id2right{
+    background-color:red;
+    left:845px;
+    bottom:390px;
+    position:relative;
+}
+
+
+#bleft{
+    background-color:brown;
+    border:5px solid black;
+    height:200px;
+    width:250px;
+    bottom:240px;
+    left:220px;
+    position:relative;
+}
+
+#bright{
+    background-color:white;
+    border:5px solid black;
+    height:200px;
+    width:500px;
+    bottom:450px;
+    left:500px;
+    position:relative;
+
+}
+
+#last{
+    background-color:white;
+    border:5px solid black;
+    height:250px;
+    bottom:380px;
+    position:relative;
+}
+
+#lastsection{
+    background-color:brown;
+    border:0px solid black;
+    height:40px;
+    top:210px;
+    position:relative;
+}
+
