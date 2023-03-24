@@ -6,6 +6,12 @@
     border:5px solid black;
 }
 
+#testdiv{
+    background-color:red;
+    width:100px;
+    height:100px;
+}
+
 #sectionmain{
     background-color:brown;
     height:40px;
